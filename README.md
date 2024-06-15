@@ -31,9 +31,6 @@ To use WordPedia React App, you can follow these steps:
 
 To use the app, simply type a word in the search bar to retrieve its definitions, synonyms, antonyms, and example sentences.
 
-## Demo
-A live demo of WordPedia React App is available at [LINK TO LIVE DEMO](https://dictionary-react-app-kohl.vercel.app).
-
 ## Credits
 - The WordPedia React App was created by Vikram P. ([vikrampartha24@gmail.com](mailto:vikrampartha24@gmail.com)).
 - The app uses the [Free Dictionary API](https://dictionaryapi.dev) for word information and the [Pexels API](https://www.pexels.com/api/documentation/) for images.
